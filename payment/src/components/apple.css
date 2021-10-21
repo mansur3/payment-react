@@ -1,0 +1,48 @@
+.a {
+    width: 500px;
+    margin-bottom: 30px;
+    height: 300px;
+    display : grid;
+    grid-template-columns: 48% 48%;
+    background-color: rgb(214, 214, 214)
+}
+
+.h {
+    display : grid;
+    grid-template-rows : 50% 50%;
+
+}
+
+.i {
+    width:70px;
+    height:50px;
+    margin-top : 30px;
+    margin-left: 150px;
+    
+    /* background-color: black; */
+}
+
+.j {
+    width: 50px;
+    margin-left : 170px;
+    margin-top : 90px;
+}
+.c, .d, .e, .f, .g {
+    text-align : left;
+    margin-left : 30px;
+}
+
+.d {
+    background-color : black;
+    color : white;
+    width: 130px;
+    height: 30px;
+    text-align : center;
+}
+
+
+
+
+
+
+
